@@ -1,8 +1,9 @@
-package com.example.oop;
-import java.util.ArrayList;
-import java.util.List;
+package com.example.oop.card;
 
-abstract class Card {
+import com.example.oop.core.Game;
+import com.example.oop.core.Player;
+
+public abstract class Card {
     protected String name;
     protected int value;
 

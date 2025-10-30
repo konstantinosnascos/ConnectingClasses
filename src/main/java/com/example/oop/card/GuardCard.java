@@ -1,4 +1,8 @@
-package com.example.oop;
+package com.example.oop.card;
+
+import com.example.oop.ui.Display;
+import com.example.oop.core.Game;
+import com.example.oop.core.Player;
 
 import java.util.List;
 

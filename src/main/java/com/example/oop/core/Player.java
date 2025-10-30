@@ -1,4 +1,8 @@
-package com.example.oop;
+package com.example.oop.core;
+
+
+
+import com.example.oop.card.Card;
 
 import java.util.List;
 

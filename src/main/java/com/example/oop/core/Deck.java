@@ -1,6 +1,7 @@
-package com.example.oop;
-import java.util.ArrayList;
-import java.util.List;
+package com.example.oop.core;
+
+import com.example.oop.card.*;
+
 import java.util.Stack;
 import java.util.Collections;
 

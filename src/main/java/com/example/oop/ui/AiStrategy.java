@@ -1,4 +1,7 @@
-package com.example.oop;
+package com.example.oop.ui;
+
+import com.example.oop.core.Player;
+import com.example.oop.card.*;
 
 import java.util.*;
 import java.util.stream.Collectors;

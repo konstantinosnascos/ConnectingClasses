@@ -1,4 +1,14 @@
-package com.example.oop;
+package com.example.oop.core;
+
+
+import com.example.oop.card.Card;
+import com.example.oop.card.CountessCard;
+import com.example.oop.card.KingCard;
+import com.example.oop.card.PrinceCard;
+import com.example.oop.ui.AiStrategy;
+import com.example.oop.ui.Display;
+import com.example.oop.ui.GameKnowledge;
+import com.example.oop.ui.InputHelper;
 
 import java.util.ArrayList;
 import java.util.Comparator;
